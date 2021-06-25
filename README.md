@@ -1,2 +1,2 @@
-# College-App
-An app for college related stuff
+# School Management app
+ Flutter Ui - School Management app
