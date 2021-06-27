@@ -1,0 +1,4 @@
+#Fri Jun 25 16:26:12 IST 2021
+base.0=C\:\\Users\\Pooja\\OneDrive\\Desktop\\flutter\\School-Management-app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
